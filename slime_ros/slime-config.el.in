@@ -16,7 +16,7 @@
 (setq slime-lisp-implementations nil)
 
 (setq slime-contribs '(slime-repl
-                       slime-autodoc
+                       ;; slime-autodoc
                        ;; slime-c-p-c
                        slime-editing-commands
                        slime-fancy-inspector
